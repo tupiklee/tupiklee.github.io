@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#221f1c"/>
+  <rect x="40" y="40" width="720" height="520" rx="12" fill="#2c2824"/>
+  <text x="400" y="310" text-anchor="middle" fill="#5a544e" font-family="Georgia, serif" font-size="24">Women RTW</text>
+</svg>
