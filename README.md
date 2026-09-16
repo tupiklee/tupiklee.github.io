@@ -29,7 +29,9 @@ VS Code **Live Server** 확장을 써도 됩니다.
 1. GitHub에 저장소를 만들고 이 폴더 내용을 `main` 브랜치 루트에 push합니다. (`index.html`이 루트에 있어야 합니다.)
 2. 저장소 **Settings → Pages → Build and deployment**에서 Source를 **Deploy from a branch**로 설정합니다.
 3. Branch: **main**, Folder: **/ (root)** 를 선택하고 Save합니다.
-4. 1–2분 후 `https://<사용자명>.github.io/<저장소명>/` 에서 확인합니다.
+4. 1–2분 후 사이트에서 확인합니다.
+
+**이 프로젝트:** [https://tupiklee.github.io/](https://tupiklee.github.io/) · 저장소 [tupiklee/tupiklee.github.io](https://github.com/tupiklee/tupiklee.github.io)
 
 루트에 `.nojekyll` 파일이 있어 Jekyll 처리를 건너뜁니다.
 
